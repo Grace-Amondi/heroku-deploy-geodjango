@@ -6,8 +6,11 @@ Find the tutorial on Medium https://medium.com/@ochieng.grace/deploy-geodjango-a
 To run it locally
 
 #### Clone the repo
+```https://github.com/Grace-Amondi/heroku-deploy-geodjango.git```
+
 
 #### Change .envtest to .env and make changes to database credentials appropriately
+
 
 #### Install requirements
 
